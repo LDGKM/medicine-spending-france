@@ -57,4 +57,4 @@ python run_all.py          # about 2 minutes
 * INSEE, *Estimation de la population au 1er janvier*, by region, sex and age (2019–2023; 2023 reused for 2024–2025).
 * Region boundaries: [france-geojson](https://github.com/gregoiredavid/france-geojson).
 
-Author: Deo Gratias Loutou — [portfolio](https://ldgkm.github.io) · [LinkedIn](https://www.linkedin.com/in/deo-gratias-loutou-545263278)
+Author: Deo Gratias Loutou — [portfolio](https://deogratias-loutou.fr) · [LinkedIn](https://www.linkedin.com/in/deo-gratias-loutou-545263278)
