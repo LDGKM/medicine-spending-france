@@ -3,7 +3,7 @@
 An analysis of **€160 billion** of medicines reimbursed by French health insurance between 2019 and 2025,
 using Open Medic, the national open dataset built from the French health data system (SNDS).
 
-**Read the [report (PDF)](https://deogratias-loutou.fr/rapports/medicaments.pdf)** · browse the [notebook](notebooks/medicine_spending.ipynb) · SQL in [`sql/`](sql/)
+**Read the [report (PDF)](https://deogratias-loutou.fr/rapports/medicaments.pdf)** · browse the [notebook](notebooks/medicine_spending.ipynb) ([web page](https://deogratias-loutou.fr/notebooks/medicaments.html)) · SQL in [`sql/`](sql/)
 
 ![Spending vs volume](figures/01_spending_vs_volume.png)
 
